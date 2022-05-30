@@ -17,3 +17,6 @@ public class scom
 		}
 	}
 }
+OUTPUT
+=======
+both strings are equal
